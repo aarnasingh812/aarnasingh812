@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aarnasingh812
 - 👀 I’m interested in Skating, Music
-- 🌱 I’m currently learning Data analysis using python
+- 🌱 I’m currently ML Enthusiast, Data Analyst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
