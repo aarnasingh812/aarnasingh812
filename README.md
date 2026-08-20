@@ -6,14 +6,14 @@
 <h3 align="center">🤖 Python Developer | AI Engineer building LLM-powered systems that think, retrieve & respond</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&width=650&lines=Architecting+LLM-powered+applications;Building+RAG+pipelines+%2B+vector+search;Fine-tuning+%26+optimizing+model+inference;Shipping+production-grade+AI+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&width=650&lines=Architecting+AI-powered+applications;Building+RAG+pipelines+%2B+text+extraction(OCR);Creating+backend+workflows;Shipping+production-grade+AI+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/aarna-singh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aarnasingh812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/aarnasingh812"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Powered%20by-Neural%20Networks-6A5ACD?style=for-the-badge&logo=openai&logoColor=white" />
+ 
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ### 🧠 About Me
 
 ```python
-class AIEngineer:
+class whoami:
     def __init__(self):
         self.name = "Aarna Singh"
         self.role = "AI Engineer / Python Developer"
@@ -102,13 +102,5 @@ class AIEngineer:
 </p>
 
 ---
-
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/aarna-singh/" target="_blank">LinkedIn</a> •
-  <a href="mailto:aarnasingh812@gmail.com">Email</a> •
-  <a href="https://github.com/aarnasingh812">GitHub</a>
-</p>
 
 <p align="center"><i>🧠 "Turning tokens into insight, one inference at a time." — Thanks for stopping by, let's build something intelligent together!</i></p>
