@@ -1,0 +1,99 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d0221"/>
+      <stop offset="50%" stop-color="#1a0b3d"/>
+      <stop offset="100%" stop-color="#0d0221"/>
+    </linearGradient>
+    <linearGradient id="edgeGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6A5ACD" stop-opacity="0.1"/>
+      <stop offset="50%" stop-color="#9370DB" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#6A5ACD" stop-opacity="0.1"/>
+    </linearGradient>
+    <radialGradient id="nodeGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#c9b8ff"/>
+      <stop offset="60%" stop-color="#8a6cff"/>
+      <stop offset="100%" stop-color="#6A5ACD"/>
+    </radialGradient>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- Neural network layers -->
+  <g id="network" opacity="0.9">
+    <!-- Edges layer 1 -> 2 -->
+    <g stroke="url(#edgeGrad)" stroke-width="1.2" fill="none">
+      <!-- Generated connections -->
+      <line x1="120" y1="60"  x2="380" y2="55"><animate attributeName="stroke-opacity" values="0.1;0.7;0.1" dur="3s" begin="0s" repeatCount="indefinite"/></line>
+      <line x1="120" y1="60"  x2="380" y2="150"><animate attributeName="stroke-opacity" values="0.1;0.6;0.1" dur="3.4s" begin="0.2s" repeatCount="indefinite"/></line>
+      <line x1="120" y1="60"  x2="380" y2="245"><animate attributeName="stroke-opacity" values="0.1;0.5;0.1" dur="2.8s" begin="0.5s" repeatCount="indefinite"/></line>
+      <line x1="120" y1="150" x2="380" y2="55"><animate attributeName="stroke-opacity" values="0.1;0.5;0.1" dur="3.1s" begin="0.3s" repeatCount="indefinite"/></line>
+      <line x1="120" y1="150" x2="380" y2="150"><animate attributeName="stroke-opacity" values="0.1;0.8;0.1" dur="2.6s" begin="0s" repeatCount="indefinite"/></line>
+      <line x1="120" y1="150" x2="380" y2="245"><animate attributeName="stroke-opacity" values="0.1;0.6;0.1" dur="3.6s" begin="0.7s" repeatCount="indefinite"/></line>
+      <line x1="120" y1="240" x2="380" y2="55"><animate attributeName="stroke-opacity" values="0.1;0.4;0.1" dur="3.3s" begin="0.1s" repeatCount="indefinite"/></line>
+      <line x1="120" y1="240" x2="380" y2="150"><animate attributeName="stroke-opacity" values="0.1;0.7;0.1" dur="2.9s" begin="0.4s" repeatCount="indefinite"/></line>
+      <line x1="120" y1="240" x2="380" y2="245"><animate attributeName="stroke-opacity" values="0.1;0.5;0.1" dur="3.2s" begin="0.6s" repeatCount="indefinite"/></line>
+
+      <!-- Layer 2 -> 3 -->
+      <line x1="380" y1="55"  x2="620" y2="40"><animate attributeName="stroke-opacity" values="0.1;0.6;0.1" dur="2.7s" begin="0.2s" repeatCount="indefinite"/></line>
+      <line x1="380" y1="55"  x2="620" y2="110"><animate attributeName="stroke-opacity" values="0.1;0.5;0.1" dur="3.5s" begin="0.5s" repeatCount="indefinite"/></line>
+      <line x1="380" y1="150" x2="620" y2="40"><animate attributeName="stroke-opacity" values="0.1;0.4;0.1" dur="3.0s" begin="0.1s" repeatCount="indefinite"/></line>
+      <line x1="380" y1="150" x2="620" y2="110"><animate attributeName="stroke-opacity" values="0.1;0.8;0.1" dur="2.5s" begin="0s" repeatCount="indefinite"/></line>
+      <line x1="380" y1="150" x2="620" y2="190"><animate attributeName="stroke-opacity" values="0.1;0.6;0.1" dur="3.4s" begin="0.3s" repeatCount="indefinite"/></line>
+      <line x1="380" y1="150" x2="620" y2="260"><animate attributeName="stroke-opacity" values="0.1;0.5;0.1" dur="2.9s" begin="0.6s" repeatCount="indefinite"/></line>
+      <line x1="380" y1="245" x2="620" y2="190"><animate attributeName="stroke-opacity" values="0.1;0.7;0.1" dur="3.1s" begin="0.4s" repeatCount="indefinite"/></line>
+      <line x1="380" y1="245" x2="620" y2="260"><animate attributeName="stroke-opacity" values="0.1;0.5;0.1" dur="2.6s" begin="0.7s" repeatCount="indefinite"/></line>
+
+      <!-- Layer 3 -> 4 -->
+      <line x1="620" y1="40"  x2="880" y2="70"><animate attributeName="stroke-opacity" values="0.1;0.6;0.1" dur="3.2s" begin="0.2s" repeatCount="indefinite"/></line>
+      <line x1="620" y1="110" x2="880" y2="70"><animate attributeName="stroke-opacity" values="0.1;0.7;0.1" dur="2.8s" begin="0.5s" repeatCount="indefinite"/></line>
+      <line x1="620" y1="110" x2="880" y2="150"><animate attributeName="stroke-opacity" values="0.1;0.5;0.1" dur="3.3s" begin="0.1s" repeatCount="indefinite"/></line>
+      <line x1="620" y1="190" x2="880" y2="150"><animate attributeName="stroke-opacity" values="0.1;0.8;0.1" dur="2.6s" begin="0.3s" repeatCount="indefinite"/></line>
+      <line x1="620" y1="190" x2="880" y2="230"><animate attributeName="stroke-opacity" values="0.1;0.6;0.1" dur="3.5s" begin="0.6s" repeatCount="indefinite"/></line>
+      <line x1="620" y1="260" x2="880" y2="230"><animate attributeName="stroke-opacity" values="0.1;0.5;0.1" dur="2.9s" begin="0.4s" repeatCount="indefinite"/></line>
+
+      <!-- Layer 4 -> 5 (output) -->
+      <line x1="880" y1="70"  x2="1080" y2="150"><animate attributeName="stroke-opacity" values="0.1;0.7;0.1" dur="3.0s" begin="0.2s" repeatCount="indefinite"/></line>
+      <line x1="880" y1="150" x2="1080" y2="150"><animate attributeName="stroke-opacity" values="0.1;0.9;0.1" dur="2.5s" begin="0s" repeatCount="indefinite"/></line>
+      <line x1="880" y1="230" x2="1080" y2="150"><animate attributeName="stroke-opacity" values="0.1;0.6;0.1" dur="3.2s" begin="0.5s" repeatCount="indefinite"/></line>
+    </g>
+
+    <!-- Nodes -->
+    <g filter="url(#softGlow)">
+      <!-- Layer 1 -->
+      <circle cx="120" cy="60"  r="7" fill="url(#nodeGlow)"><animate attributeName="r" values="6;9;6" dur="2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="120" cy="150" r="7" fill="url(#nodeGlow)"><animate attributeName="r" values="6;9;6" dur="2.8s" repeatCount="indefinite"/></circle>
+      <circle cx="120" cy="240" r="7" fill="url(#nodeGlow)"><animate attributeName="r" values="6;9;6" dur="2.2s" repeatCount="indefinite"/></circle>
+
+      <!-- Layer 2 -->
+      <circle cx="380" cy="55"  r="6" fill="url(#nodeGlow)"><animate attributeName="r" values="5;8;5" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="380" cy="150" r="6" fill="url(#nodeGlow)"><animate attributeName="r" values="5;8;5" dur="3.0s" repeatCount="indefinite"/></circle>
+      <circle cx="380" cy="245" r="6" fill="url(#nodeGlow)"><animate attributeName="r" values="5;8;5" dur="2.3s" repeatCount="indefinite"/></circle>
+
+      <!-- Layer 3 -->
+      <circle cx="620" cy="40"  r="6" fill="url(#nodeGlow)"><animate attributeName="r" values="5;8;5" dur="2.7s" repeatCount="indefinite"/></circle>
+      <circle cx="620" cy="110" r="6" fill="url(#nodeGlow)"><animate attributeName="r" values="5;8;5" dur="2.1s" repeatCount="indefinite"/></circle>
+      <circle cx="620" cy="190" r="6" fill="url(#nodeGlow)"><animate attributeName="r" values="5;8;5" dur="2.9s" repeatCount="indefinite"/></circle>
+      <circle cx="620" cy="260" r="6" fill="url(#nodeGlow)"><animate attributeName="r" values="5;8;5" dur="2.5s" repeatCount="indefinite"/></circle>
+
+      <!-- Layer 4 -->
+      <circle cx="880" cy="70"  r="6" fill="url(#nodeGlow)"><animate attributeName="r" values="5;8;5" dur="2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="880" cy="150" r="6" fill="url(#nodeGlow)"><animate attributeName="r" values="5;8;5" dur="2.8s" repeatCount="indefinite"/></circle>
+      <circle cx="880" cy="230" r="6" fill="url(#nodeGlow)"><animate attributeName="r" values="5;8;5" dur="2.2s" repeatCount="indefinite"/></circle>
+
+      <!-- Output node -->
+      <circle cx="1080" cy="150" r="9" fill="url(#nodeGlow)"><animate attributeName="r" values="8;12;8" dur="1.8s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+
+  <!-- Text -->
+  <text x="600" y="30" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="15" fill="#b8a9ff" letter-spacing="4" opacity="0.8">AARNA SINGH · AI ENGINEER</text>
+  <text x="600" y="290" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12" fill="#6A5ACD" letter-spacing="2" opacity="0.7">forward_pass(ideas) → production_ready_ai()</text>
+</svg>

@@ -1,21 +1,114 @@
+<p align="center">
+  <img src="./banner.svg" alt="Neural network banner" width="100%"/>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aarna-singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aarnasingh812@gmail.com) 
+<h1 align="center">⚡ Hi, I'm Aarna Singh</h1>
+<h3 align="center">🤖 Python Developer | AI Engineer building LLM-powered systems that think, retrieve & respond</h3>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aarnasingh812&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=aarnasingh812&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aarnasingh812&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&width=650&lines=Architecting+LLM-powered+applications;Building+RAG+pipelines+%2B+vector+search;Fine-tuning+%26+optimizing+model+inference;Shipping+production-grade+AI+systems" alt="Typing SVG" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aarnasingh812&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aarnasingh812&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://linkedin.com/in/aarna-singh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aarnasingh812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/aarnasingh812"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Powered%20by-Neural%20Networks-6A5ACD?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=aarnasingh812&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧠 About Me
+
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Aarna Singh"
+        self.role = "AI Engineer / Python Developer"
+        self.focus = ["LLMs", "RAG Systems", "Conversational AI", "OCR", "Scalable Backends Architecture", "REST APIs"]
+
+    def current_mission(self):
+        return "Turning raw data + LLMs into reliable, production-ready AI systems 🚀"
+```
+
+- 🏢 Currently a **Python Developer** — building AI powered applications with Django REST Framework backends
+- 💼 Previously **AI Engineer** — architected an LLM-powered chatbot that cut support response time by **40%**
+- 🎓 B.Tech in **Computer Science (Specialization in AI & ML)**
+- 🌱 Constantly experimenting on leveraging AI to solve real-world problems.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+</p>
+
+**Frameworks & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+</p>
+
+**AI / ML**
+<p>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-4B0082?style=flat-square" />
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Fine--Tuning-6A5ACD?style=flat-square" />
+</p>
+
+**Data & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector%20DB-FF4500?style=flat-square" />
+  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=flat-square&logo=microsoftazure&logoColor=white" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aarnasingh812&show_icons=true&theme=tokyonight&count_private=true&icon_color=6A5ACD&title_color=6A5ACD" alt="Aarna's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarnasingh812&theme=tokyonight&ring=6A5ACD&fire=6A5ACD" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarnasingh812&layout=compact&theme=tokyonight&title_color=6A5ACD" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aarnasingh812&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/aarna-singh/" target="_blank">LinkedIn</a> •
+  <a href="mailto:aarnasingh812@gmail.com">Email</a> •
+  <a href="https://github.com/aarnasingh812">GitHub</a>
+</p>
+
+<p align="center"><i>🧠 "Turning tokens into insight, one inference at a time." — Thanks for stopping by, let's build something intelligent together!</i></p>
