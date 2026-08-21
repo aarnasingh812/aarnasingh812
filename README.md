@@ -15,10 +15,6 @@
   <a href="https://github.com/aarnasingh812"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aarnasingh812&style=for-the-badge&color=6A5ACD" alt="Profile views" />
-</p>
-
 ---
 
 ### 🧠 About Me
@@ -49,20 +45,12 @@ class whoami:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔎 Project Name One</h4>
-      <p>One-line description of what it does and the problem it solves.</p>
+      <h4>🔎 Finance Buddy</h4>
+      <p>AI powered personalised financial goal management guide.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
       <br/>
-      <a href="#">🔗 Repo</a> · <a href="#">🌐 Demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📄 Project Name Two</h4>
-      <p>One-line description of what it does and the problem it solves.</p>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vector%20DB-FF4500?style=flat-square" />
-      <br/>
-      <a href="#">🔗 Repo</a> · <a href="#">🌐 Demo</a>
+      <a href="https://github.com/aarnasingh812/FinanceBuddy">🔗 Repo</a> 
     </td>
   </tr>
 </table>
@@ -123,12 +111,12 @@ class whoami:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aarnasingh812&show_icons=true&theme=tokyonight&count_private=true&icon_color=6A5ACD&title_color=6A5ACD" alt="Aarna's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarnasingh812&layout=compact&theme=tokyonight&title_color=6A5ACD" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aarnasingh812&show_icons=true&theme=tokyonight&count_private=true&icon_color=6A5ACD&title_color=6A5ACD&cache_seconds=86400" alt="Aarna's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarnasingh812&layout=compact&theme=tokyonight&title_color=6A5ACD&cache_seconds=86400" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarnasingh812&theme=tokyonight&ring=6A5ACD&fire=6A5ACD" alt="GitHub Streak" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=aarnasingh812&theme=tokyonight&ring=6A5ACD&fire=6A5ACD" alt="GitHub Streak" width="70%"/>
 </p>
 
 ---
