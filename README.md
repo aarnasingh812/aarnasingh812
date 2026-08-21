@@ -13,7 +13,10 @@
   <a href="https://linkedin.com/in/aarna-singh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aarnasingh812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/aarnasingh812"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
- 
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aarnasingh812&style=for-the-badge&color=6A5ACD" alt="Profile views" />
 </p>
 
 ---
@@ -25,16 +28,44 @@ class whoami:
     def __init__(self):
         self.name = "Aarna Singh"
         self.role = "AI Engineer / Python Developer"
-        self.focus = ["LLMs", "RAG Systems", "Conversational AI", "OCR", "Scalable Backends Architecture", "REST APIs"]
+        self.focus = ["LLMs", "RAG Systems", "OCR", "Scalable Backend Architecture"]
+        self.currently_learning = ["Designing production-ready AI systems", "Agentic workflows", "Vectorless RAG"]
 
     def current_mission(self):
         return "Turning raw data + LLMs into reliable, production-ready AI systems 🚀"
 ```
 
-- 🏢 Currently a **Python Developer** — building AI powered applications with Django REST Framework backends
+- 🏢 Currently a **Python Developer** — building AI-powered applications with Django REST Framework backends
 - 💼 Previously **AI Engineer** — architected an LLM-powered chatbot that cut support response time by **40%**
 - 🎓 B.Tech in **Computer Science (Specialization in AI & ML)**
-- 🌱 Constantly experimenting on leveraging AI to solve real-world problems.
+- 📫 Open to discussing AI/ML roles, RAG architecture, and interesting backend problems
+
+---
+
+### 🚀 Featured Projects
+
+<!-- Replace these with your actual repos — name, one-line pitch, and a live/demo link if you have one -->
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔎 Project Name One</h4>
+      <p>One-line description of what it does and the problem it solves.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+      <br/>
+      <a href="#">🔗 Repo</a> · <a href="#">🌐 Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📄 Project Name Two</h4>
+      <p>One-line description of what it does and the problem it solves.</p>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vector%20DB-FF4500?style=flat-square" />
+      <br/>
+      <a href="#">🔗 Repo</a> · <a href="#">🌐 Demo</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -57,6 +88,8 @@ class whoami:
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square&logoColor=black" />
 </p>
 
 **AI / ML**
@@ -65,6 +98,7 @@ class whoami:
   <img src="https://img.shields.io/badge/RAG-4B0082?style=flat-square" />
   <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square" />
   <img src="https://img.shields.io/badge/Fine--Tuning-6A5ACD?style=flat-square" />
+  <img src="https://img.shields.io/badge/OCR-663399?style=flat-square" />
 </p>
 
 **Data & Cloud**
@@ -90,17 +124,13 @@ class whoami:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aarnasingh812&show_icons=true&theme=tokyonight&count_private=true&icon_color=6A5ACD&title_color=6A5ACD" alt="Aarna's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarnasingh812&theme=tokyonight&ring=6A5ACD&fire=6A5ACD" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarnasingh812&layout=compact&theme=tokyonight&title_color=6A5ACD" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aarnasingh812&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarnasingh812&theme=tokyonight&ring=6A5ACD&fire=6A5ACD" alt="GitHub Streak" width="70%"/>
 </p>
 
 ---
 
-<p align="center"><i>🧠 "Turning tokens into insight, one inference at a time." — Thanks for stopping by, let's build something intelligent together!</i></p>
+<p align="center"><i>🧠 "Turning tokens into insight, one inference at a time." — Thanks for stopping by!</i></p>
