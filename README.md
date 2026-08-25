@@ -112,6 +112,9 @@ class whoami:
 
 <p align="center">
   <img src="https://github-readme-stats-aarnasingh812.vercel.app/api?username=aarnasingh812&show_icons=true&theme=tokyonight&count_private=true&icon_color=6A5ACD&title_color=6A5ACD&hide_border=true&cache_seconds=86400&rank_icon=github" alt="Aarna's GitHub stats" height="165"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats-aarnasingh812.vercel.app/api/top-langs/?username=aarnasingh812&layout=compact&theme=tokyonight&title_color=6A5ACD&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages" height="165"/>
 </p>
 
@@ -120,15 +123,7 @@ class whoami:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aarnasingh812&theme=tokyo-night&bg_color=1a1b27&color=6A5ACD&line=6A5ACD&point=ffffff&area=true&area_color=6A5ACD&hide_border=true&radius=6&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/aarnasingh812/aarnasingh812/output/github-snake.svg" alt="Snake animation" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aarnasingh812&theme=tokyonight&column=6&margin-w=10&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
