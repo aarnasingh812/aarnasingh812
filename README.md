@@ -111,8 +111,8 @@ class whoami:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-aarnasingh812.vercel.app/api?username=aarnasingh812&show_icons=true&theme=tokyonight&count_private=true&icon_color=6A5ACD&title_color=6A5ACD&hide_border=true&v=2" alt="Aarna's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats-aarnasingh812.vercel.app/api/top-langs/?username=aarnasingh812&layout=compact&theme=tokyonight&title_color=6A5ACD&hide_border=true&langs_count=6&v=2" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aarnasingh812&show_icons=true&theme=tokyonight&count_private=true&icon_color=6A5ACD&title_color=6A5ACD&hide_border=true" alt="Aarna's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarnasingh812&layout=compact&theme=tokyonight&title_color=6A5ACD&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
@@ -120,11 +120,19 @@ class whoami:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aarnasingh812&theme=tokyo-night&bg_color=1a1b27&color=6A5ACD&line=6A5ACD&point=ffffff&area=true&area_color=6A5ACD&hide_border=true&radius=6" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aarnasingh812&theme=tokyo-night&bg_color=1a1b27&color=6A5ACD&line=6A5ACD&point=ffffff&area=true&area_color=6A5ACD&hide_border=true&radius=6&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aarnasingh812&theme=tokyonight&column=6&margin-w=10&no-frame=true&v=2" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aarnasingh812/aarnasingh812/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aarnasingh812/aarnasingh812/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/aarnasingh812/aarnasingh812/output/github-snake-dark.svg" alt="Snake animation" width="95%" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aarnasingh812&theme=tokyonight&column=6&margin-w=10&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
