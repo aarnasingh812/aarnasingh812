@@ -106,5 +106,5 @@
 
   <!-- Text -->
   <text x="600" y="30" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="18" fill="#ffffff" letter-spacing="4" filter="url(#textGlow)">AARNA SINGH · AI ENGINEER</text>
-  <text x="600" y="291" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#c9b8ff" letter-spacing="2" filter="url(#textGlow)">extract(ocr) → retrieve(rag) → deploy(api)</text>
+  <text x="600" y="291" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="16" fill="#ffffff" letter-spacing="3" filter="url(#textGlow)">extract → build → deploy</text>
 </svg>
