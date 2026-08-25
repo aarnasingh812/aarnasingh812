@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">⚡ Hi, I'm Aarna Singh</h1>
-<h3 align="center">🤖 Python Developer | AI Engineer building LLM-powered systems that think, retrieve & respond</h3>
+<h3 align="center">🤖 Python Developer | AI Engineer building LLM-powered systems that think, retrieve &amp; respond</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&width=650&lines=Architecting+AI-powered+applications;Building+RAG+pipelines+%2B+text+extraction(OCR);Creating+backend+workflows;Shipping+production-grade+AI+systems" alt="Typing SVG" />
@@ -33,7 +33,7 @@ class whoami:
 
 - 🏢 Currently a **Python Developer** — building AI-powered applications with Django REST Framework backends
 - 💼 Previously **AI Engineer** — architected an LLM-powered chatbot that cut support response time by **40%**
-- 🎓 B.Tech in **Computer Science (Specialization in AI & ML)**
+- 🎓 B.Tech in **Computer Science (Specialization in AI &amp; ML)**
 - 📫 Open to discussing AI/ML roles, RAG architecture, and interesting backend problems
 
 ---
@@ -66,7 +66,7 @@ class whoami:
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
 </p>
 
-**Frameworks & Libraries**
+**Frameworks &amp; Libraries**
 <p>
   <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat-square&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -89,7 +89,7 @@ class whoami:
   <img src="https://img.shields.io/badge/OCR-663399?style=flat-square" />
 </p>
 
-**Data & Cloud**
+**Data &amp; Cloud**
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -124,11 +124,7 @@ class whoami:
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aarnasingh812/aarnasingh812/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aarnasingh812/aarnasingh812/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/aarnasingh812/aarnasingh812/output/github-snake-dark.svg" alt="Snake animation" width="95%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/aarnasingh812/aarnasingh812/output/github-snake-dark.svg" alt="Snake animation" width="95%" />
 </p>
 
 <p align="center">
