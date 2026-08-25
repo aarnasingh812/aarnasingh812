@@ -120,6 +120,10 @@ class whoami:
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aarnasingh812&theme=tokyo-night&bg_color=1a1b27&color=6A5ACD&line=6A5ACD&point=ffffff&area=true&area_color=6A5ACD&hide_border=true&radius=6" alt="Contribution Graph" width="95%"/>
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aarnasingh812&theme=tokyonight&column=6&margin-w=10&no-frame=true&v=2" alt="GitHub Trophies" />
 </p>
 
