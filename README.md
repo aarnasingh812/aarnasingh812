@@ -111,8 +111,8 @@ class whoami:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aarnasingh812&show_icons=true&theme=tokyonight&count_private=true&icon_color=6A5ACD&title_color=6A5ACD&hide_border=true" alt="Aarna's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarnasingh812&layout=compact&theme=tokyonight&title_color=6A5ACD&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-aarnasingh812.vercel.app/api?username=aarnasingh812&show_icons=true&theme=tokyonight&count_private=true&icon_color=6A5ACD&title_color=6A5ACD&hide_border=true" alt="Aarna's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-aarnasingh812.vercel.app/api/top-langs/?username=aarnasingh812&layout=compact&theme=tokyonight&title_color=6A5ACD&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
