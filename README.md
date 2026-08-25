@@ -38,9 +38,7 @@ class whoami:
 
 ---
 
-### 🚀 Featured Projects
-
-<!-- Replace these with your actual repos — name, one-line pitch, and a live/demo link if you have one -->
+<!-- ### 🚀 Featured Projects
 
 <table>
   <tr>
@@ -54,7 +52,7 @@ class whoami:
   </tr>
 </table>
 
----
+--- -->
 
 ### 🛠️ Tech Stack
 
