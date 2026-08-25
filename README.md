@@ -124,7 +124,7 @@ class whoami:
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aarnasingh812/aarnasingh812/output/github-snake-dark.svg" alt="Snake animation" width="95%" />
+  <img src="https://raw.githubusercontent.com/aarnasingh812/aarnasingh812/output/github-snake.svg" alt="Snake animation" width="95%" />
 </p>
 
 <p align="center">
