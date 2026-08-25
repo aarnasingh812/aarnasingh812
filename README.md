@@ -111,16 +111,16 @@ class whoami:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-aarnasingh812.vercel.app/api?username=aarnasingh812&show_icons=true&theme=tokyonight&count_private=true&icon_color=6A5ACD&title_color=6A5ACD&hide_border=true" alt="Aarna's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats-aarnasingh812.vercel.app/api/top-langs/?username=aarnasingh812&layout=compact&theme=tokyonight&title_color=6A5ACD&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-aarnasingh812.vercel.app/api?username=aarnasingh812&show_icons=true&theme=tokyonight&count_private=true&icon_color=6A5ACD&title_color=6A5ACD&hide_border=true&v=2" alt="Aarna's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-aarnasingh812.vercel.app/api/top-langs/?username=aarnasingh812&layout=compact&theme=tokyonight&title_color=6A5ACD&hide_border=true&langs_count=6&v=2" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aarnasingh812&theme=tokyonight&ring=6A5ACD&fire=6A5ACD&hide_border=true" alt="GitHub Streak" width="60%"/>
+  <img src="https://streak-stats.demolab.com/?user=aarnasingh812&theme=tokyonight&ring=6A5ACD&fire=6A5ACD&hide_border=true&v=2" alt="GitHub Streak" width="60%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aarnasingh812&theme=tokyonight&column=6&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aarnasingh812&theme=tokyonight&column=6&margin-w=10&no-frame=true&v=2" alt="GitHub Trophies" />
 </p>
 
 ---
